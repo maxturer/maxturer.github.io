@@ -1,0 +1,12 @@
+title: hello.....
+baseurl: ""
+url: "https://maxturer.github.io"
+defaults:
+  - scope:
+      path: "assets/images"
+    values:
+      image: true
+sass:
+  sass_dir: _sass
+  style: compact
+  sourcemap: never
